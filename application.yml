@@ -17,7 +17,7 @@ spring:
     name: user-consumer
 feign:
   hystrix:
-    enabled: false
+    enabled: true
 logging:
   level: info
 order-provider:
