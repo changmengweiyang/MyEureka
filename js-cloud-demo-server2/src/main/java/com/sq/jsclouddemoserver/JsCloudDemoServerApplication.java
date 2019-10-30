@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //本地新开发的功能
 //远程修改
 //修改
-//2019/10/30
+//2019/10/30 22
 @SpringBootApplication
 @EnableEurekaServer
 public class JsCloudDemoServerApplication {
